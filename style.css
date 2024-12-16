@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: inherit;
+    list-style: none;
+    text-decoration: none;
+  }
+
+   .container{
+    margin: 0 auto;
+    width: 80%;
+
+   }
+
+
+
+
+  .kunuz{
+   display: flex;
+   gap: 30px;
+   margin-bottom: 50px;
+  }
+
+.p{
+    margin-top: 30px;
+}
+
+.kun2{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 50px;
+}
+ .ku{
+    margin: 30px;
+ }
+
+.ol{
+    border: 1px solid dimgray;
+    border-radius:  10px;
+}
+
+.kun3{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+
+
+
+
+
+
+
